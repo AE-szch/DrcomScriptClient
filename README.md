@@ -1,5 +1,5 @@
 # DrcomScriptClient
 
-## 1.0
+## 2.0
 
-- only support python version 2.x
+- Can Support Python 2.x and 3.x
